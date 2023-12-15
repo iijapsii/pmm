@@ -1,0 +1,13 @@
+playlists:
+  James Bond Collection:
+    sync_mode: sync
+    libraries: Movies
+    sync_to_users: all
+    trakt_list: https://trakt.tv/users/any/lists/james-bond?sort=released,asc
+  
+  Jurassic Park Collection:
+    sync_mode: sync
+    libraries: Movies
+    sync_to_users: all
+    trakt_list: https://trakt.tv/users/rygo92/lists/jurassic-park?sort=rank,asc
+   
